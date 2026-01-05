@@ -233,7 +233,7 @@ This project demonstrates:
 ## 📞 Contact & Support
 
 - **GitHub:** [Maru8735/acoustic-cognition](https://github.com/Maru8735)
-- **Demo:** [acoustic-cognition.streamlit.app](https://acoustic-cognition.streamlit.app)
+- **Demo:** [acoustic-cognition.streamlit.app](https://acoustic-mind.streamlit.app/)
 - **Documentation:** See `README.md` and `ARCHITECTURE.md`
 
 ---
