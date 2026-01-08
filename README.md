@@ -1,4 +1,4 @@
-# 📋 Implementation Guide: Acoustic Cognition v1.0
+# 📋 Implementation Guide: Acoustic Mind v1.0
 
 **Version:** 1.0 | **Status:** Production Ready | **Last Updated:** Jan 2026
 
@@ -233,7 +233,7 @@ This project demonstrates:
 ## 📞 Contact & Support
 
 - **GitHub:** [Maru8735/acoustic-cognition](https://github.com/Maru8735)
-- **Demo:** [acoustic-cognition.streamlit.app](https://acoustic-mind.streamlit.app/)
+- **Demo:** [acoustic-cognition.streamlit.app](https://acoustic-mind.streamlit.app)
 - **Documentation:** See `README.md` and `ARCHITECTURE.md`
 
 ---
